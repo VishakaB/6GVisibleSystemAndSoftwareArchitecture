@@ -47,3 +47,4 @@ Seamlessly integrate with existing smart city infrastructure, including traffic 
 
 Support V2X protocols for data sharing across heterogeneous networks.
 
+More Notes in Miro: https://miro.com/app/board/uXjVNjJeZDg=/
